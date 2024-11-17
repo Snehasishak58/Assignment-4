@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">ExpandableListViewDemo</string>
+=======
+    <string name="app_name">CustomListView</string>
+>>>>>>> e546721d2503ed6ae7f104728bd6513923495734
 </resources>

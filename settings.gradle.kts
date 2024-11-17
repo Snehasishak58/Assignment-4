@@ -19,5 +19,9 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
 rootProject.name = "ExpandableListViewDemo"
+=======
+rootProject.name = "CustomListView"
+>>>>>>> e546721d2503ed6ae7f104728bd6513923495734
 include(":app")

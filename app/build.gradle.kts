@@ -3,11 +3,19 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.example.expandablelistviewdemo"
     compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.expandablelistviewdemo"
+=======
+    namespace = "com.example.customlistview"
+    compileSdk = 34
+
+    defaultConfig {
+        applicationId = "com.example.customlistview"
+>>>>>>> e546721d2503ed6ae7f104728bd6513923495734
         minSdk = 24
         targetSdk = 34
         versionCode = 1

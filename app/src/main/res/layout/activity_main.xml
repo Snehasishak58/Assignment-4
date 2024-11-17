@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
+=======
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+>>>>>>> e546721d2503ed6ae7f104728bd6513923495734
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical">
 
+<<<<<<< HEAD
     <ExpandableListView
         android:id="@+id/expandableListView"
+=======
+    <ListView
+        android:id="@+id/list_view"
+>>>>>>> e546721d2503ed6ae7f104728bd6513923495734
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 </LinearLayout>
